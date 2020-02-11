@@ -1,9 +1,9 @@
-class Node:
-    def __init__(self,data=None):
+class Node :
+    def __init__(self,data = None):
         self.data = data
         self.next = None
 
-class singlyLinkedList :
+class SinglyLinkedList :
     def __init__(self):
         self.head = None
         self.tail = None
@@ -11,14 +11,14 @@ class singlyLinkedList :
 
     def iter(self):
         current = self.tail
-        while current:
+        while current :
             val = current.data
             current = current.next
             yield val
 
     def append(self,data):
         node = Node(data)
-        if self.head :
+        if self.head:
             self.head.next = node
             self.head = node
             self.size = self.size+1
@@ -31,12 +31,13 @@ class singlyLinkedList :
         current = self.tail
         prev = self.tail
         while current:
-            if current.data == data :
-                if current == self.tail:
+            if current.data == data:
+                if current == self.tail :
                     self.tail = current.next
                 else:
                     prev.next = current.next
                     return
+
                 self.size = self.size - 1
             else :
                 prev = current
@@ -48,27 +49,23 @@ class singlyLinkedList :
                 return True
         return False
 
-
     def clear(self):
-        self.haed = None
+        self.head = None
         self.tail = None
 
 
-
-
-
-a = singlyLinkedList()
+a = SinglyLinkedList()
 a.append('Lakshman')
 a.append('Chinta')
-a.append("Axelaar")
+a.append("IBM")
 a.append("Kotesh")
 for i in a.iter():
     print(i)
-a.delete('Axelaar')
+a.delete('IBM')
 for i in a.iter():
     print(str(2)+i)
 print(a.search('Chinta'))
-print(a.search('California'))
+print(a.search('Virginia'))
 a.clear()
 for i in a.iter():
     print(i)
