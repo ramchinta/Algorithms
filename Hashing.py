@@ -14,3 +14,14 @@ b = sum(map(ord, 'gello xorld'))
 
 print(a)
 print(b)
+
+#Perfect Hashing Function
+def myhash(s):
+    mult = 1
+    hv = 0
+    for ch in s:
+        hv += mult*ord(ch)
+        mult = mult +1
+    return hv
+for item in ('hello world', 'world hello', 'gello xorld'):
+    print("{}: {}".format(item, myhash(item)))
