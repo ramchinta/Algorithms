@@ -35,8 +35,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Insertion Sort">
-    <configuration name="Binary Search Tree Recursively" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.DeterministicSelect">
+    <configuration name="DeterministicSelect" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary Search Tree Recursively.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeterministicSelect.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Binary Search Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HeapSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary Search Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HeapSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Bubble Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Quick Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bubble Sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quick Sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Insertion Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="QuickSelect" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Insertion Sort.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Lakshman\Documents\GitHub\Algorithms\RandomizedSelect.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Interpolation Search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Selection Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interpolation Search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selection Sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Insertion Sort" />
-        <item itemvalue="Python.Bubble Sort" />
-        <item itemvalue="Python.Interpolation Search" />
-        <item itemvalue="Python.Binary Search Tree Recursively" />
-        <item itemvalue="Python.Binary Search Tree" />
+        <item itemvalue="Python.DeterministicSelect" />
+        <item itemvalue="Python.QuickSelect" />
+        <item itemvalue="Python.HeapSort" />
+        <item itemvalue="Python.Quick Sort" />
+        <item itemvalue="Python.Selection Sort" />
       </list>
     </recent_temporary>
   </component>
