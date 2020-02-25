@@ -35,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DeterministicSelect">
+  <component name="RunManager" selected="Python.mergesort">
     <configuration name="DeterministicSelect" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HeapSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Dynamic Programming Memoization" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HeapSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming Memoization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Quick Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DynamicProgrammingTabulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quick Sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicProgrammingTabulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Selection Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mergesort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selection Sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mergesort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mergesort" />
+        <item itemvalue="Python.DynamicProgrammingTabulation" />
+        <item itemvalue="Python.Dynamic Programming Memoization" />
         <item itemvalue="Python.DeterministicSelect" />
         <item itemvalue="Python.QuickSelect" />
-        <item itemvalue="Python.HeapSort" />
-        <item itemvalue="Python.Quick Sort" />
-        <item itemvalue="Python.Selection Sort" />
       </list>
     </recent_temporary>
   </component>
