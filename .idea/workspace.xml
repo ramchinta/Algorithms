@@ -35,8 +35,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.GreedyAlgorithmCoinCollection">
-    <configuration name="Dynamic Programming Memoization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.DijkstrasShortestPathAlgorithm">
+    <configuration name="DijkstrasShortestPathAlgorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming Memoization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DijkstrasShortestPathAlgorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DijkstrasShortestPathAlgorithm" />
         <item itemvalue="Python.GreedyAlgorithmCoinCollection" />
         <item itemvalue="Python.GreedyAlgorithmCoinCollection1" />
         <item itemvalue="Python.mergesort" />
         <item itemvalue="Python.DynamicProgrammingTabulation" />
-        <item itemvalue="Python.Dynamic Programming Memoization" />
       </list>
     </recent_temporary>
   </component>
