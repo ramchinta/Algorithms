@@ -1,3 +1,4 @@
+#Binary Search Tree Recursively
 def binary_search(ordered_list, first_element_index, last_element_index, term):
 
     if (last_element_index < first_element_index):
