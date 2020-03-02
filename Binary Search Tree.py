@@ -1,3 +1,4 @@
+#Binary Search Tree
 def binarySearchTree(orderedList,item):
     sizeOfList = len(orderedList)
     indexOfFirstElement = 0
