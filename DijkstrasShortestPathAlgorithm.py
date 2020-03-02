@@ -1,3 +1,5 @@
+#Dijkstras Shortest Path Algorithm
+
 table = dict()
 table = {
     'A': [0, None],

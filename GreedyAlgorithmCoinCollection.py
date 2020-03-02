@@ -1,3 +1,4 @@
+#Greedy Algorithm Coin Collection
 def optimal_small_change(denom, total_amount):
     sorted_denominations = sorted(denom, reverse=True)
 
@@ -18,6 +19,10 @@ def optimal_small_change(denom, total_amount):
     return series
 
 print(optimal_small_change([1,5,8],14))
+
+
+
+
 
 '''Coin-counting problem
 Let's examine a very simple use of this greedy technique. In some arbitrary country, 
