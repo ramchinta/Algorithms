@@ -35,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Convert BST to Greater tree">
+  <component name="RunManager" selected="Python.KeertiAnna">
     <configuration name="Binary Search Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GreedyAlgorithmCoinCollection1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="KeertiAnna" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GreedyAlgorithmCoinCollection1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KeertiAnna.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.KeertiAnna" />
         <item itemvalue="Python.Convert BST to Greater tree" />
         <item itemvalue="Python.Binary Search Tree" />
         <item itemvalue="Python.DijkstrasShortestPathAlgorithm" />
         <item itemvalue="Python.GreedyAlgorithmCoinCollection" />
-        <item itemvalue="Python.GreedyAlgorithmCoinCollection1" />
       </list>
     </recent_temporary>
   </component>
