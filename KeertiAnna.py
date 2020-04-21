@@ -1,4 +1,4 @@
-'''from collections import deque
+from collections import deque
 class Veterinarian:
     def __init__(self):
         self.list = deque()
@@ -19,7 +19,7 @@ veterinarian.accept("Barkley")
 veterinarian.accept("Mittens")
 print(veterinarian.heal())
 print(veterinarian.heal())
-'''
+
 
 from collections import defaultdict
 def find_unique_numbers(numbers):

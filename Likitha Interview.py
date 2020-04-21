@@ -1,4 +1,4 @@
-'''list = ['a','b','c','a','d','e','b','a','c']
+list = ['a','b','c','a','d','e','b','a','c']
 result = []
 for i in list:
     if i not in result:
@@ -29,5 +29,5 @@ def findPair(list, n):
         else:
             i += 1
     return result
-print(findPair(list, 7))'''
+print(findPair(list, 7))
 
